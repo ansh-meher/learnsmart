@@ -1,0 +1,5 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="200" fill="#10b981"/>
+  <text x="50%" y="40%" font-family="Arial" font-size="16" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">Uploaded Image</text>
+  <text x="50%" y="60%" font-family="Arial" font-size="12" fill="#d1fae5" text-anchor="middle" dominant-baseline="middle">Instructor Content</text>
+</svg>
